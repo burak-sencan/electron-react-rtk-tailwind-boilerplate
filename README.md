@@ -1,0 +1,1 @@
+## electron react typeScript vite tailwind redux-toolkit boilerplate
